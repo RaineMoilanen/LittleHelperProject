@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author moilarai
+ *
+ */
+module LittleHelperProject {
+}
